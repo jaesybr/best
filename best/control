@@ -1,9 +1,0 @@
-Package: com.yourcompany.best
-Name: best
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: trap
-Author: trap
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
