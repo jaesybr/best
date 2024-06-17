@@ -1,4 +1,3 @@
-ARMS = arm64e
 TARGET := iphone:clang:latest:18.0
 INSTALL_TARGET_PROCESSES = 1
 
