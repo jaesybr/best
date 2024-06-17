@@ -2,7 +2,6 @@ ARMS = arm64
 TARGET := iphone:clang:latest:18.0
 INSTALL_TARGET_PROCESSES = 1
 
-
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = best
