@@ -1,5 +1,5 @@
 ARMS = arm64
-TARGET := iphone:clang:latest:7.0
+TARGET := iphone:clang:latest:18.0
 INSTALL_TARGET_PROCESSES = 1
 
 
